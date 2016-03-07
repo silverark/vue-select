@@ -16,7 +16,7 @@
     "url": "https://github.com/Haixing-Hu/vue-select/issues"
   },
   "main": [
-    "src/vue-select.js"
+    "./src/vue-select.js"
   ],
   "configs": {
     "directories": {
